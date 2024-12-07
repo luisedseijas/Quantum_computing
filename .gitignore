@@ -159,4 +159,4 @@ cython_debug/
 .setup_IBM_platform.py
 
 # Python setup
-requirements.txt
+.requirements.txt
